@@ -4,5 +4,5 @@
 
 ## TypeScript Уроки
 
-[Урок 1. Коментарі та перша програма "Привіт Світ"](/typescript-lessons/lesson1.md)
-[Урок 2. Змінні та константи](/typescript-lessons/lesson2.md)
+1. [Коментарі та перша програма "Привіт Світ"](/typescript-lessons/lesson1.md)
+2. [Змінні та константи](/typescript-lessons/lesson2.md)
