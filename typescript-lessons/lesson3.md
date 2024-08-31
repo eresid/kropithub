@@ -3,7 +3,7 @@
 В TypeScript, як і у всіх інших мовах програмування, бувають наступні типи даних:
 
 ```typescript
-// Цілі чи дробні числа
+// Цілі чи дробові числа
 let number1: number = 124;
 const number2 = 0;
 let number3: number = -1.0001;
