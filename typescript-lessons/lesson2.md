@@ -18,3 +18,8 @@ const someConst = 'Hello!';
 // Після створення ми не можемо задати їй інше значення - буде помилка
 someConst = 'World'; // Редактор покаже помилку при наведенні на неї
 ```
+
+## Посилання
+
+- [Вихідний код уроку в CodePen](https://codepen.io/Yevhen-Sakara/pen/ZEdoNgq)
+- [Посібник JavaScript: Змінні та константи](https://uk.javascript.info/variables)

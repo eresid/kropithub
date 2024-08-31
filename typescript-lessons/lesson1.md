@@ -24,3 +24,9 @@ let sum: number = 5 + 8;
 console.log("5 + 8 = " + sum);
 
 ```
+
+## Посилання
+
+- [Вихідний код уроку в CodePen](https://codepen.io/Yevhen-Sakara/pen/ExBLpxB)
+- [Посібник JavaScript: Вступ до JavaScript](https://uk.javascript.info/intro)
+- [Посібник JavaScript: Привіт, світ!](https://uk.javascript.info/hello-world)
