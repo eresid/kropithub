@@ -8,3 +8,4 @@
 2. [Змінні та константи](/typescript-lessons/lesson2.md)
 3. [Типи даних](/typescript-lessons/lesson3.md)
 4. [Функції](/typescript-lessons/lesson4.md)
+5. [Математичні операції](/typescript-lessons/lesson5.md)
