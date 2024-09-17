@@ -11,3 +11,10 @@
 5. [Математичні операції](/typescript-lessons/lesson5.md)
 6. [Логічні оператори](/typescript-lessons/lesson6.md)
 7. [Умовні оператори](/typescript-lessons/lesson7.md)
+
+## Наші соціальні мережі
+
+Підписуйся на зручний для себе канал, щоб отримувати оновлення по курсу та іншу корисну інформацію:
+
+- [Телеграм канал](https://t.me/kropithub)
+- [Facebook сторінка](https://www.facebook.com/kropithub)
