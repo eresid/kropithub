@@ -64,5 +64,5 @@ if ((age >= 18 && hasLicense) || youAreTankDriver) {
 
 ## Посилання
 
-[Логічні оператори і все що необхідно про них знати](https://www.youtube.com/watch?v=Nn79iOFiBuY)
-[Посібник JavaScript: Логічні оператори](https://uk.javascript.info/logical-operators)
+- [Логічні оператори і все що необхідно про них знати](https://www.youtube.com/watch?v=Nn79iOFiBuY)
+- [Посібник JavaScript: Логічні оператори](https://uk.javascript.info/logical-operators)
