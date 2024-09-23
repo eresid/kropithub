@@ -11,6 +11,7 @@
 5. [Математичні операції](/typescript-lessons/lesson5.md)
 6. [Логічні оператори](/typescript-lessons/lesson6.md)
 7. [Умовні оператори](/typescript-lessons/lesson7.md)
+8. [Цикли](/typescript-lessons/lesson8.md)
 
 ## Наші соціальні мережі
 
