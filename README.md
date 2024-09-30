@@ -12,6 +12,7 @@
 6. [Логічні оператори](/typescript-lessons/lesson6.md)
 7. [Умовні оператори](/typescript-lessons/lesson7.md)
 8. [Цикли](/typescript-lessons/lesson8.md)
+9. [Оператори порівняння](/typescript-lessons/lesson9.md)
 
 ## Наші соціальні мережі
 
